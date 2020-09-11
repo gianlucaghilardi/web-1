@@ -1,0 +1,24 @@
+body{
+					background-color: #FFA07A;
+				}
+				th{
+					text-align: left;
+				}
+				table{
+					border: 3px solid #00FFCC;
+				}
+				.img{
+					border: 3px solid black;
+				}
+				.b{
+					border: 3px solid black;
+				}
+				.r{
+					border: 3px solid red;
+				}
+				.g{
+					border: 3px solid green;
+				}
+				.bl{
+					border: 3px solid blue;
+				}
